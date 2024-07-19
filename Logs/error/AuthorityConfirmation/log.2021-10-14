@@ -1,0 +1,2 @@
+2021-10-14 19:53:33,973|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 0cab9b3e9905 处理read only失败
+2021-10-14 19:53:59,945|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 0cab9b3e9905 安装证书失败

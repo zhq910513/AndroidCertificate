@@ -1,0 +1,4 @@
+2021-08-17 12:21:15,745|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 2b59040b9905 处理read only失败
+2021-08-17 12:22:39,155|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 2b59040b9905 处理read only失败
+2021-08-17 12:51:11,610|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:39|check_root|手机 2b59040b9905 没有root权限
+2021-08-17 15:56:25,780|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 6e0cd42e9805 处理read only失败

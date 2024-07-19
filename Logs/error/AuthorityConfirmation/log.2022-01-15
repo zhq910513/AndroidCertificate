@@ -1,0 +1,6 @@
+2022-01-15 13:42:58,464|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:39|check_root|手机 531d68b70904 没有root权限
+2022-01-15 13:45:56,953|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 531d68b70904 处理read only失败
+2022-01-15 13:46:12,104|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 531d68b70904 安装证书失败
+2022-01-15 13:46:24,037|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 531d68b70904 安装证书失败
+2022-01-15 14:33:27,110|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:78|handle_remount|手机 531d68b70904 重新挂载失败
+2022-01-15 14:33:36,965|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:78|handle_remount|手机 531d68b70904 重新挂载失败

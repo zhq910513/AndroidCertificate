@@ -1,0 +1,10 @@
+2021-10-08 11:14:04,566|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 fb12f73c0005 处理read only失败
+2021-10-08 12:37:18,389|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 f0b5233c0704 安装证书失败
+2021-10-08 12:37:39,303|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:78|handle_remount|手机 f0b5233c0704 重新挂载失败
+2021-10-08 12:37:48,743|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:78|handle_remount|手机 f0b5233c0704 重新挂载失败
+2021-10-08 12:38:14,446|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:78|handle_remount|手机 f0b5233c0704 重新挂载失败
+2021-10-08 12:53:27,055|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 fb12f73c0005 安装证书失败
+2021-10-08 12:55:08,464|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:78|handle_remount|手机 fb12f73c0005 重新挂载失败
+2021-10-08 12:55:33,854|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 fb12f73c0005 安装证书失败
+2021-10-08 17:14:55,291|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 8054c29e0804 处理read only失败
+2021-10-08 17:50:25,241|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:104|push_hash_file|手机 11059b009805 安装证书失败

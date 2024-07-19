@@ -1,0 +1,1 @@
+2023-04-14 15:57:23,828|Process-1|MainThread|WARNING|CheckMitmproxy.py:90|check_certificate_files|Unable to copy file. [Errno 2] No such file or directory: 'C:\\Users\\king\\.mitmproxy/c8750f0d\\r.0'

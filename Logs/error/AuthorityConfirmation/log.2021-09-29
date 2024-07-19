@@ -1,0 +1,2 @@
+2021-09-29 17:26:24,707|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 f0b5233c0704 处理read only失败
+2021-09-29 17:38:38,453|Process-2|Thread-1|WARNING|AuthorityConfirmation.py:65|handle_read_only|手机 11059b009805 处理read only失败
